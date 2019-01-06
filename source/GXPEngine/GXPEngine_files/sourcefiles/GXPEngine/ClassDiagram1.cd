@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HitBox" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actors\Hitbox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Street" Collapsed="true">
+    <Position X="6.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actors\Hitbox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Garden" Collapsed="true">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actors\Hitbox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Package" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAIAAAAAAAAAQgIAQAgQAAAAA=</HashCode>
+      <FileName>Actors\Package.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Letter" Collapsed="true">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actors\Package.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball" Collapsed="true">
+    <Position X="20.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAIAAAAAAAIAIAAAAAAAAAQAIAQAgQDAAAA=</HashCode>
+      <FileName>Actors\Placeholders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="36" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAACAAgAAAAAAAJgAAACAQBAiAQAAAAABAEAAA=</HashCode>
+      <FileName>Actors\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Truck" Collapsed="true">
+    <Position X="15.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAAAAAAAAA=</HashCode>
+      <FileName>Actors\Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TruckAnimation" Collapsed="true">
+    <Position X="46.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actors\Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQCAAgAIAAAAAAAAQAAAAAAQAAAAAAAAACACAAABQA=</HashCode>
+      <FileName>Level\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelLayer" Collapsed="true">
+    <Position X="27" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Level\LevelLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="29.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGame" Collapsed="true">
+    <Position X="31.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MyGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeathManager" Collapsed="true">
+    <Position X="33.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\DeathManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyUtils" Collapsed="true">
+    <Position X="44.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQIAAABAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\MyUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetAssets" Collapsed="true">
+    <Position X="53.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAABAAAAAAAAAAAAQAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Utility\MyUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseManager" Collapsed="true">
+    <Position X="48.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAEIAA=</HashCode>
+      <FileName>Utility\PauseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextBox" Collapsed="true">
+    <Position X="22.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAACAAAAAAAAAIBAAAAAAAAAAAAAAAMAAAAAIAA=</HashCode>
+      <FileName>Utility\TextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAAAAAAAAAAAIAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Utility\Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vec2" Collapsed="true">
+    <Position X="51.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAYAAAABAAAQEEcEcDBABRCgAIADAEARBgAAAQAhA=</HashCode>
+      <FileName>Utility\Vec2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map" Collapsed="true">
+    <Position X="53.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAABQAQAAAEAEAAAGAACAAAAAAMAAAAAQAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileSet" Collapsed="true">
+    <Position X="53.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAACAAAAAAEAAAAACQAQAwAABEAAAAAAQgCAQA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileOffSet" Collapsed="true">
+    <Position X="51.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAwAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XmlImage" Collapsed="true">
+    <Position X="44.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABgAAAAAEAAAAAEAAAAgQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TerrainType" Collapsed="true">
+    <Position X="46.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Terrain" Collapsed="true">
+    <Position X="44.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAAAQAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile" Collapsed="true">
+    <Position X="50" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAQEgAAAAIAAAAAAABAAAEAAAAACAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animation" Collapsed="true">
+    <Position X="43" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frame" Collapsed="true">
+    <Position X="51.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Layer" Collapsed="true">
+    <Position X="51.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAABAAAAAAEAAAAAEQAAAAAABAIAAAAAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data" Collapsed="true">
+    <Position X="48.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAgAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectGroup" Collapsed="true">
+    <Position X="46.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAkAAAAAAQAAAAAAAAoAAAAgAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XmlObject" Collapsed="true">
+    <Position X="46.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAGBEAAgIAEAAACAEQCAAAAAAAIAQAAAAACACA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Properties" Collapsed="true">
+    <Position X="50" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Property" Collapsed="true">
+    <Position X="51.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XmlRectangle" Collapsed="true">
+    <Position X="51.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XmlEllipse" Collapsed="true">
+    <Position X="43" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XmlPolygon" Collapsed="true">
+    <Position X="48.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAAAAAAAAACAEAAAAAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XmlPolyline" Collapsed="true">
+    <Position X="50" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAAAAAAAAACAEAAAAAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageLayer" Collapsed="true">
+    <Position X="46.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAEAAAAAAQAAAAAABDIAAAAAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMXParser" Collapsed="true">
+    <Position X="44.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>XML\Level\TMXParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.AnimationSprite" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoEAAAAAgQAAAAQAQAEEIAAIAAAIAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AnimationSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.AnimSprite" Collapsed="true">
+    <Position X="13.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AnimationSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Canvas" Collapsed="true">
+    <Position X="20.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAAEQAAAAAAAAAAAAAAABAAAgCAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Canvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.BlendMode" Collapsed="true">
+    <Position X="44.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAABAAAAACAAAJAMAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\BlendMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Transformable" Collapsed="true">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAIAAAACQAACCADBCAAAAACAAAABkAQCAAAA=</HashCode>
+      <FileName>GXPEngine\Core\Transformable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.FMOD" Collapsed="true">
+    <Position X="50" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAUFIAAEIAARAQAAKAAGQZBgRAUIQBERgiAENAUAIIU=</HashCode>
+      <FileName>GXPEngine\FMOD\FMOD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Game" Collapsed="true">
+    <Position X="31.5" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="GXPEngine.Game.StepDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GXPEngine\Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AkYAAAAAACQAAAYCYAAABAAAAABAIAAEIAAAAAAAAAw=</HashCode>
+      <FileName>GXPEngine\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.GameObject" Collapsed="true">
+    <Position X="21.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIRAAACAARBEABUCBAAAAAQgBJFQAAIABUAGACAAAI=</HashCode>
+      <FileName>GXPEngine\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.CollisionManager" Collapsed="true">
+    <Position X="46.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBIAgAAAAIAAAAAAAAACBAAAAAAAAAAAIAABAAAAAAQ=</HashCode>
+      <FileName>GXPEngine\Managers\CollisionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Mathf" Collapsed="true">
+    <Position X="43" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACBAAAABAgABgEkAAEAAMAAA2AAAAAACgAAEKAAAA=</HashCode>
+      <FileName>GXPEngine\Mathf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Pivot" Collapsed="true">
+    <Position X="38.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Pivot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Sound" Collapsed="true">
+    <Position X="53.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAoAAEAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.SoundChannel" Collapsed="true">
+    <Position X="43" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAACABAAAAAAIQAAAAAIAIgAAAAAAA=</HashCode>
+      <FileName>GXPEngine\SoundChannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Sprite" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAQQJAIQMQAAAAAICgACAIgCAAAgQEAAAAAA=</HashCode>
+      <FileName>GXPEngine\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Input" Collapsed="true">
+    <Position X="48.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgABAAAQAAAAEQAIAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>GXPEngine\Utils\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Key" Collapsed="true">
+    <Position X="50" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YEACDAQQCBABAwCgiAAAAByUogIiEAwigAFA/v//YUE=</HashCode>
+      <FileName>GXPEngine\Utils\Key.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.MouseHandler" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAQAAAAAIACQgAQAQBQAAAAAYgAAAAACQAw=</HashCode>
+      <FileName>GXPEngine\Utils\MouseHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Time" Collapsed="true">
+    <Position X="43" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAAEAAAAAAAAAIAAAAAAAAAAgAAAAAAAACAA=</HashCode>
+      <FileName>GXPEngine\Utils\Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Utils" Collapsed="true">
+    <Position X="50" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAAAAAAAAAAAAAAAAAAAAJAAAABQAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Utils\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Arrow" Collapsed="true">
+    <Position X="40.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAACAAAAAQAAAAAAAAAAAACAAABYACAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\Components\Arrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.DragHandler" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Utility\Components\DragHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.LineSegment" Collapsed="true">
+    <Position X="24.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAQAEAAgAAAAAAAAAAAAIECAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\Components\LineSegment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.NLineSegment" Collapsed="true">
+    <Position X="24.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Utility\Components\NLineSegment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.TextField" Collapsed="true">
+    <Position X="18" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIOAAAAAAQAAgAAAAIAAAAgCACAAAhIABAAAQAAAIA=</HashCode>
+      <FileName>Utility\Components\TextField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.BoxCollider" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAgAAADAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\BoxCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.Collider" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\Collider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.WindowSize" Collapsed="true">
+    <Position X="53.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\GLContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.GLContext" Collapsed="true">
+    <Position X="44.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAIgAAAQIiIhEQAchgAAUxAIJAACAAAABgACAKQACI=</HashCode>
+      <FileName>GXPEngine\Core\GLContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.Texture2D" Collapsed="true">
+    <Position X="48.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgBBgISCEAAQARAAAAAAIBYAAAAAAAACEAAAAABA=</HashCode>
+      <FileName>GXPEngine\Core\Texture2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Managers.UpdateManager" Collapsed="true">
+    <Position X="48.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAAAAQABAAAAAgBAAAAAAAAAAAIAAAAAAQAAI=</HashCode>
+      <FileName>GXPEngine\Managers\UpdateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.OpenGL.GL" Collapsed="true">
+    <Position X="43" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GIMIkv8YAKVPDNATBJKwDWInUxAuGCk1ASBisEB+y1k=</HashCode>
+      <FileName>GXPEngine\OpenGL\GL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GXPEngine.Core.Rectangle" Collapsed="true">
+    <Position X="43" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABQEQAAAAAgAAAAIAAAAAABgAAAAgAA=</HashCode>
+      <FileName>GXPEngine\Core\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GXPEngine.Core.Vector2" Collapsed="true">
+    <Position X="44.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\Vector2.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="GXPEngine.MouseEventType" Collapsed="true">
+    <Position X="43" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAQBAAAAAAAgEAAAAAAABAAAAAAEAAAAAAAAACAAAA=</HashCode>
+      <FileName>GXPEngine\Utils\MouseHandler.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
